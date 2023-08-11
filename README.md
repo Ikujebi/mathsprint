@@ -1,2 +1,1 @@
-# mathsprint
-# game for kids
+# mathsprint A GAME TO HELP TRAIN YOUR KIDS TO BECOME THE GENIUS THEY ARE
